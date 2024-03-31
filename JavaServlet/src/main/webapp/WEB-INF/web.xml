@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+ 
+ <!--  <servlet>
+ <servlet-name>abc</servlet-name>
+ <servlet-class>com.javaServlet.AddServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>abc</servlet-name>
+ <url-pattern>/add</url-pattern>
+ </servlet-mapping>
+ 
+ <servlet>
+ <servlet-name>pqr</servlet-name>
+ <servlet-class>com.javaServlet.SquareServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>pqr</servlet-name>
+ <url-pattern>/square</url-pattern>
+ </servlet-mapping>-->
+ 
+ 
+<!--  ServletCOntext
+ <servlet>
+ <servlet-name>servlet</servlet-name>
+ <servlet-class>com.javaServlet.MyServlet</servlet-class>
+ </servlet>
+ <servlet-mapping>
+ <servlet-name>servlet</servlet-name>
+ <url-pattern>/home</url-pattern>
+ </servlet-mapping>
+ <context-param>
+ <param-name>name</param-name>
+ <param-value>Priya</param-value>
+ </context-param>
+ <context-param>
+ <param-name>phone</param-name>
+ <param-value>OPPOA57</param-value>
+ </context-param> -->
+ 
+ 
+<!--ServletConfig 
+ <init-param>
+<param-name>name</param-name>
+ <param-value>Priya</param-value>
+ </init-param>--> 
+</web-app>
